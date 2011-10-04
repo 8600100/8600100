@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+  },
+  "name": "identity-cookbook",
+  "maintainer_email": "8600100@gmail.com",
+  "attributes": {
+  },
+  "license": "All rights reserved",
+  "suggestions": {
+  },
+  "platforms": {
+  },
+  "maintainer": "YOUR_COMPANY_NAME",
+  "long_description": "= DESCRIPTION:\n\n= REQUIREMENTS:\n\n= ATTRIBUTES:\n\n= USAGE:\n\n",
+  "version": "0.0.1",
+  "recommendations": {
+  },
+  "recipes": {
+    "identity-cookbook::helloworld": "My first recipe, prints Hello World to the RightScale dashboard"
+  },
+  "groupings": {
+  },
+  "conflicting": {
+  },
+  "replacing": {
+  },
+  "description": "Installs/Configures identity-cookbook",
+  "providing": {
+  }
+}
